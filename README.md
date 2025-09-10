@@ -1,0 +1,1 @@
+This is a practice repository with which I start off my journey of Data Science projects
